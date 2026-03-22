@@ -37,3 +37,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Verified compatibility with latest runtime version
+
+## 2026-03-23
+- Removed unused variable declarations
+- Noted known limitation in docs
+- Updated dependencies to latest stable versions
