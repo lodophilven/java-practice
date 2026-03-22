@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed security headers configuration
 - Improved log message formatting
 - Improved error handling in edge cases
+
+## 2026-03-22
+- Resolved deprecation warnings
+- Tidied up project structure
