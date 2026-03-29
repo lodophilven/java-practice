@@ -50,3 +50,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Verified compatibility with latest runtime version
 - Refactored module structure for clarity
+
+## 2026-03-30
+- Added .editorconfig for consistent formatting
